@@ -1,0 +1,22 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+
+# IDE
+.vscode/
+*.code-workspace
+
+# Build tools
+prepros-6.config
+
+# Temp
+*.log
+*.tmp
+Thumbs.db
+
+# Binaries/OS
+*.exe
+*.dll
+abc.cpp  # Personal file, ignore if not part of portfolio
+*.pdf   # Ignore Resume.pdf if not needed
+
