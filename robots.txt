@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nikhilchopade.com/sitemap.xml
+Sitemap: https://nikhilchopade.netlify.app/sitemap.xml
