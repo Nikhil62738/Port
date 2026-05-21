@@ -1,0 +1,25 @@
+{
+  "Person": {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "<FULL_NAME>",
+    "jobTitle": "<PRIMARY_ROLE>",
+    "url": "<CANONICAL_URL>",
+    "description": "<SHORT_BIO_FOR_SCHEMA>",
+    "sameAs": [
+      "<SOCIAL_PROFILE_URL_1>",
+      "<SOCIAL_PROFILE_URL_2>"
+    ]
+  },
+  "WebSite": {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "<SITE_NAME>",
+    "url": "<CANONICAL_URL>",
+    "publisher": {
+      "@type": "Organization",
+      "name": "<SITE_OWNER_NAME>"
+    }
+  }
+}
+
